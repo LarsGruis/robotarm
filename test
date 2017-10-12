@@ -1,0 +1,11 @@
+
+
+for(var a = 0; a < 5; a++)
+	for(var row = 0; row < 6 row++){
+		robotArm.moveRight();
+		robotArm.grab();
+		robotArm.moveLeft();
+		robotArm.drop();
+	}
+		robotArm.moveRight();
+		robotArm.moveRight();
